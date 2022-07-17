@@ -1,7 +1,7 @@
 # My Blender-Python examples
 Here are my examples of playing with Blender and Python.
 
-## ex01 - 1D wave simulation - homogeneous media
+## ex01 - 1D acoustic wave simulation - homogeneous media
 
 <p align="center">
 	<img src="/ex01/figs/out01.gif" alt="The output" width="600"/>
